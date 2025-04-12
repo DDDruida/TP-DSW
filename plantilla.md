@@ -21,9 +21,8 @@ Los administradores pueden gestionar socios, embarcaciones, cuotas, reservas, bo
 Modelo)*
 
 ### Modelo
-![imagen del modelo]()
+![Editor___Mermaid_Chart-2025-04-10-211114 1  conv 1](https://github.com/user-attachments/assets/a4d22d4b-1843-441f-a8fe-107e902e924d)
 
-*Nota*: incluir un link con la imagen de un modelo, puede ser modelo de dominio, diagrama de clases, DER. Si lo prefieren pueden utilizar diagramas con [Mermaid](https://mermaid.js.org) en lugar de imágenes.
 
 ## Alcance Funcional 
 
