@@ -21,7 +21,7 @@ Los administradores pueden gestionar socios, embarcaciones, cuotas, reservas, bo
 Modelo)*
 
 ### Modelo
-![imagen del modelo](https://drive.google.com/file/d/1ZiTE_nuGObrav5-0RCNHfrIvDUDpl5nH/view)
+![imagen del modelo]()
 
 *Nota*: incluir un link con la imagen de un modelo, puede ser modelo de dominio, diagrama de clases, DER. Si lo prefieren pueden utilizar diagramas con [Mermaid](https://mermaid.js.org) en lugar de imágenes.
 
